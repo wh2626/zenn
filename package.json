@@ -19,5 +19,8 @@
   "homepage": "https://github.com/wh2626/zenn#readme",
   "dependencies": {
     "zenn-cli": "^0.1.141"
+  },
+  "devDependencies": {
+    "prettier-plugin-md-nocjsp": "^1.5.1"
   }
 }
