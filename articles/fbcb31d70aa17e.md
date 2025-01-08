@@ -3,17 +3,14 @@ title: "【JavaScript】Object.groupByを使って日毎の配列を作成する
 emoji: "🎄"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["JavaScript"]
-published: false
+published: true
 publication_name: "spacemarket"
 ---
 
 こんにちは！
-毎年妻にクリスマスプレゼントを用意しているのに、自分は用意されていないwharaguchiです。
+[スペースマーケット](https://www.spacemarket.com/)でフロントエンドエンジニアをしているwharaguchiです。
 
-今年はどうなるのでしょうか。
-（ちなみに今年のプレゼントは[マリオのルームソックス](https://store-jp.nintendo.com/item/goods/VM_NSJ_8_CLAAK)にしました🧦かわいい）
-
-さて、今回は、先日あげた以下の記事に `Object.groupBy`についてのコメントをいただいたため、そちらを試した記事になります。
+今回は、先日あげた以下の記事に `Object.groupBy`についてのコメントをいただいたため、そちらを試した記事になります。
 https://zenn.dev/spacemarket/articles/cec64a21e2545a
 
 ## Object.groupBy とは
