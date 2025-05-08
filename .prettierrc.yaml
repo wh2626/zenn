@@ -1,11 +1,12 @@
-# *snip*
+singleQuote: true
+semi: false
 overrides:
   - files:
-      - "*.md"
+      - '*.md'
       - README
     options:
       parser: markdown-nocjsp
   - files:
-      - "*.mdx"
+      - '*.mdx'
     options:
       parser: mdx-nocjsp
