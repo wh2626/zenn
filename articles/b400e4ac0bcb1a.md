@@ -1,9 +1,9 @@
 ---
 title: '【Day.js】React+Day.jsで作成するレンジ版カレンダーコンポーネント'
-emoji: '📘'
+emoji: '🍊'
 type: 'tech' # tech: 技術記事 / idea: アイデア
 topics: ['react', 'dayjs', 'フロントエンド', 'javascript', 'typescript']
-published: false
+published: true
 publication_name: 'spacemarket'
 ---
 
